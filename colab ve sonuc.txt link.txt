@@ -1,0 +1,8 @@
+Colab linki
+
+https://colab.research.google.com/drive/1HjqHVSU0J3AlvQHx0kvYBhGpLDIkoNus?usp=sharing
+
+
+1) Kodu colab da ilk çalıştırdığınız da Final-data dosyasını yüklemeniz gerekmektedir 
+
+2) k_means.py dosyasını çalıştırırsanız sonuçları sonuc.txt dosyasına yazacaktır fakat colabtan çalıştırırsanız sonuçları konsala yazacaktır.
